@@ -1,0 +1,11 @@
+bin
+/Library
+*.db
+*.suo
+/Assets/Plugins
+/Assets/UnityVS
+/Assets/AstarPathfindingProject
+*.csproj
+*.sln
+*.user
+/Assets/UnityVS.meta
